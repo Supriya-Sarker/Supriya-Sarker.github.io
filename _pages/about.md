@@ -7,16 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science at the [University of Tennessee, Knoxville](https://www.utk.edu/), working on Artificial Intelligence and Machine Learning. 
+I am a PhD student in the Department of Industrial and Systems Engineering at the University of Tennessee, Knoxville (https://www.utk.edu/), working on Artificial Intelligence and Machine Learning. 
 
-My research interests lie at the intersection of **Explainable AI (XAI)** and **Intelligent Transportation Systems**. I am currently working on developing explainable driving maneuver systems to enhance the transparency and safety of autonomous vehicles.
+My research interests lie at the intersection of Machine Learning, Generative AI, and Foundational Models. I am currently working on developing agentic system for automonous manufacturing process.
 
-Prior to joining UT Knoxville, I completed my Bachelor's degree in Computer Science and Engineering from [Chittagong University of Engineering & Technology (CUET)](https://www.cuet.ac.bd/).
-
-### Research Interests
-* **Artificial Intelligence & Machine Learning**
-* **Explainable AI (XAI)**
-* **Intelligent Transportation Systems (ITS)**
-* **Computer Vision**
+Prior to joining UT Knoxville, I completed my Bachelor's degree in Computer Science and Engineering from Chittagong University of Engineering & Technology (CUET)(https://www.cuet.ac.bd/).
 
 ---
