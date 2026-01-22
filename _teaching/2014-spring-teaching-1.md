@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Reinforcement Learning"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "UUniversity of Tennessee Knoxville, Department of EECS"
+date: 2023-08-20
+location: "Knoxville, TN, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
