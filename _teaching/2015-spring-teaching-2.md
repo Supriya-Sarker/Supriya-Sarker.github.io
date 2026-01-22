@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Intelligent Transportation Systems"
 collection: teaching
-type: "Workshop"
+type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Department of EECS, University of Tennessee Knoxville"
+date: 2024-08-20
+location: "Knoxville, TN, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
