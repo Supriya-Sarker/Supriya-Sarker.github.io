@@ -3,7 +3,7 @@ title: "Reinforcement Learning"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "UUniversity of Tennessee Knoxville, Department of EECS"
+venue: "Department of EECS, University of Tennessee Knoxville "
 date: 2023-08-20
 location: "Knoxville, TN, USA"
 ---
