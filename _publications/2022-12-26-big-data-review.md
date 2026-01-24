@@ -3,7 +3,7 @@ title: " Comprehensive Review on Big Data for Industries: Challenges and Opportu
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'A systematic review of big data technologies and applications in power, mineral, and manufacturing industries.'
 date: 2022-11-14
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9999445'
