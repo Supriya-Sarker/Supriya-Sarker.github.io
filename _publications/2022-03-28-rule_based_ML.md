@@ -10,11 +10,11 @@ citation: 'Md Mokammel Haque, Supriya Sarker, M Ali Akber Dewan. Driving Maneuve
 Data: A Rule Based Machine Learning Approach. Applied Intelligence, pp. 1-16, 2022.'
 ---
 
-###Overview
+### Overview
 
 This paper addresses the challenge of understanding and evaluating unsafe driving behavior by proposing an interpretable, rule-based machine learning approach for classifying driving maneuvers from time-series data.
 
-###Contributions
+### Contributions
 
 - Proposes a rule-based maneuver classification framework using a sequential covering algorithm
 - Learns interpretable decision rules by measuring rule coverage and accuracy
