@@ -1,0 +1,186 @@
+/* ==========================================================================
+   SITE CUSTOMIZATIONS (Supriya Sarker)
+   Matches the CV: serif font (Times New Roman), deep purple accent, near-black text.
+   ========================================================================== */
+
+$accent:        #5b349a;   /* CV section-heading purple */
+$accent-dark:   #3e2270;
+$ink:           #14102a;   /* near-black, like the CV text */
+$ink-soft:      #4a4560;
+$font-cv: "Times New Roman", Times, "Liberation Serif", serif;
+$sidebar-w: 250px;
+$sidebar-gap: 48px;
+
+/* ---------- Colors (light theme only; dark mode keeps its own palette) ---- */
+html:not([data-theme="dark"]) {
+  --global-base-color:                #{$accent};
+  --global-text-color:                #{$ink};
+  --global-text-color-light:          #{$ink-soft};
+  --global-link-color:                #{$accent};
+  --global-link-color-hover:          #{$accent-dark};
+  --global-link-color-visited:        #{$accent};
+  --global-masthead-link-color:       #{$ink};
+  --global-masthead-link-color-hover: #{$accent};
+  --global-border-color:              #e7e3ef;
+  --global-footer-bg-color:           #f7f5fb;
+}
+
+/* ---------- Typography: the CV font everywhere ---------- */
+html {
+  font-size: 17px;
+  @include breakpoint($medium) { font-size: 18px; }
+}
+
+body,
+.page__content, .archive, .sidebar, .masthead, .page__footer,
+h1, h2, h3, h4, h5, h6, p, li, .author__name, .author__bio, .page__title,
+.greedy-nav a, .btn,
+.sidebar h3, .sidebar p, .sidebar li, .sidebar a,
+.author__urls, .page__footer-copyright {
+  font-family: $font-cv;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.55;
+}
+
+/* ---------- Layout: content sits right next to the sidebar ---------- */
+@include breakpoint($large) {
+  .sidebar {
+    width: $sidebar-w;
+    max-width: $sidebar-w;
+  }
+
+  .archive,
+  .page {
+    float: none;
+    width: auto;
+    margin-left: $sidebar-w + $sidebar-gap;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+/* Comfortable reading width */
+.page__content > *,
+.archive > * {
+  max-width: 46rem;
+}
+
+/* ---------- Headings ---------- */
+.page__title {
+  font-weight: 700;
+  font-size: 2rem;
+  color: $ink;
+  margin-bottom: 0.5em;
+}
+
+.page__content h2,
+.archive h2 {
+  color: $accent;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin-top: 1.8em;
+  margin-bottom: 0.2em;
+  border-bottom: none;
+}
+
+/* Role/date line directly under a heading, then the description */
+.archive h2 + p,
+.page__content h2 + p {
+  margin-top: 0;
+  margin-bottom: 0.45em;
+}
+
+/* Publications page: <h2> followed by <hr> becomes a soft accent rule */
+.archive h2 + hr {
+  border: 0;
+  height: 2px;
+  margin: 0.15em 0 1em;
+  background: linear-gradient(90deg, $accent 0, rgba(91, 52, 154, 0.18) 60%, transparent 100%);
+}
+
+.page__content em, .archive em { color: $ink-soft; }
+
+/* ---------- Links ---------- */
+.page__content a,
+.archive a,
+.author__urls a,
+.page__footer a {
+  color: $accent;
+  text-decoration: none;
+  transition: color 0.15s ease;
+
+  &:hover,
+  &:focus {
+    color: $accent-dark;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+}
+
+/* ---------- Top menu ---------- */
+.masthead {
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: saturate(160%) blur(8px);
+  -webkit-backdrop-filter: saturate(160%) blur(8px);
+  border-bottom: 1px solid #ece8f3;
+  box-shadow: 0 1px 12px rgba(20, 16, 42, 0.05);
+}
+
+.greedy-nav .masthead__menu-item--lg a {
+  font-weight: 700;
+}
+
+.greedy-nav .visible-links a:before {
+  background: $accent;
+  height: 3px;
+  border-radius: 3px;
+}
+
+.masthead__menu-item.selected a,
+.masthead__menu-item.selected a:hover {
+  color: $accent;
+  border-bottom: 2px solid $accent;
+}
+
+/* ---------- Sidebar ---------- */
+.author__avatar img {
+  padding: 4px;
+  background: linear-gradient(135deg, #7b52c4 0%, $accent 50%, #2f1c5a 100%);
+  border: none;
+  box-shadow: 0 8px 24px rgba(91, 52, 154, 0.25);
+}
+
+.author__name,
+.sidebar .author__name {
+  font-family: $font-cv;
+  font-weight: 700;
+  color: $ink;
+}
+
+.author__bio, .author__pronouns { color: $ink-soft; }
+.author__urls li { color: $ink; }
+.author__urls .fa-fw, .author__urls .ai-fw { color: $accent; }
+
+/* ---------- Research page: divider between positions ---------- */
+.research-list h2 {
+  margin-top: 1.4em;
+  padding-top: 1em;
+  border-top: 1px solid var(--global-border-color);
+
+  &:first-child {
+    margin-top: 0.3em;
+    padding-top: 0;
+    border-top: none;
+  }
+}
+
+/* ---------- Footer ---------- */
+.page__footer {
+  color: $ink-soft;
+  border-top: 1px solid #ece8f3;
+}
