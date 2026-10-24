@@ -77,7 +77,7 @@ Built **Beacon**, a real-world traffic dataset recorded during blackouts, and ap
 Developed domain-knowledge-based machine learning methods for classifying driving maneuvers from time-series sensor data, including an LSTM classifier for seven maneuvers with over 98% per-class accuracy, transfer learning, and an interpretable rule-based approach. This work formed my M.S. thesis.
 
 - **Role:** Graduate Research Assistant
-- **Support:** The *IEEE Access* 2021 paper was partially supported by an NSERC Discovery Grant held by research collaborator M. A. A. Dewan.
+- **Support:** The *IEEE Access* 2021 paper was partially supported by an NSERC Discovery Grant held by research collaborator [Dr. Ali Dewan](https://www.athabascau.ca/science-and-technology/our-people/ali-dewan.html) (Athabasca University).
 - **Outcomes:** 4 publications; Best Paper Award (Honorable Mention), ICAICT 2020
 
 [[Code]](https://github.com/Supriya-Sarker/driving-maneuvers-classification-supervised-approach-)
