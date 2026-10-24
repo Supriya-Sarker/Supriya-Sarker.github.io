@@ -36,7 +36,7 @@ Developing a context-aware large language model (LLM) framework that uses retrie
 Designed an agentic AI system that uses large language models to support autonomous inspection and quality assessment in manufacturing. The system combines multi-step reasoning with multimodal sensor data and domain-specific rules to detect, interpret, and classify metal deposition anomalies.
 
 - **Role:** Graduate Research Assistant
-- **Funding:** To be added <!-- PLACEHOLDER: sponsor and award number -->
+- **Funding:** [NSF Engineering Research Center for Hybrid Autonomous Manufacturing Moving from Evolution to Revolution (HAMMER)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2133630), led by The Ohio State University
 - **Outcomes:** Poster, *Generative Process Intelligence: Large Language Models for Multi-Agent Process Planning, Control, and Quality*, The Ohio State University, 2026 <!-- PLACEHOLDER: event name and exact date -->
 
 [[Code]](https://github.com/Supriya-Sarker/multi-agent-manufacturing-inspection)
@@ -55,7 +55,7 @@ Designed a heterogeneous-data-aware, privacy-preserving hyperparameter optimizat
 Developed a Human-AI Teaming framework that models outpatient care as a collaboration among patients, clinicians, and AI, with mechanisms for shared decision-making, trust calibration, and role negotiation.
 
 - **Role:** Graduate Research Assistant
-- **Funding:** To be added <!-- PLACEHOLDER: sponsor and award number -->
+- **Funding:** U.S. Department of Energy, through Oak Ridge National Laboratory (managed by UT-Battelle, LLC)
 - **Outcomes:** Manuscript under review at [AI and Ethics](https://link.springer.com/journal/43681)
 
 [[Preprint]](https://www.researchgate.net/publication/392480667_Reimagining_the_Role_of_Human-AI_Teaming_in_Healthcare_A_Framework_for_the_Future_of_Outpatient_Care)
