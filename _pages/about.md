@@ -11,14 +11,14 @@ I am a Ph.D. student in Industrial Engineering at the [University of Arkansas](h
 
 ## News
 
-<!-- Newest first. Items marked PLACEHOLDER have estimated dates; edit as needed. -->
+<!-- Latest five items only; the full list is on the News page (_pages/news.md). -->
 - **Aug 2026** — Started as a Graduate Research Assistant at the [University of Arkansas](https://www.uark.edu/), working on LLM and RAG frameworks for maintenance prioritization in nuclear power plants.
-- **2026** — Received the [P.K. Kuroda Endowed Graduate Fellowship in Engineering](https://news.uark.edu/articles/9632/dr-paul-kazuo-kuroda) (2026–2027). <!-- PLACEHOLDER: month -->
-- **2026** — Nominated for the [P.E.O. Scholar Award](https://www.peointernational.org/educational-support/scholar-awards/) (2027–2028). <!-- PLACEHOLDER: month -->
-- **2026** — Presented the poster *Generative Process Intelligence: Large Language Models for Multi-Agent Process Planning, Control, and Quality* at [The Ohio State University](https://www.osu.edu/). <!-- PLACEHOLDER: event name and month -->
+- **2026** — Received the [P.K. Kuroda Endowed Graduate Fellowship in Engineering](https://news.uark.edu/articles/9632/dr-paul-kazuo-kuroda) (2026–2027).
+- **2026** — Nominated for the [P.E.O. Scholar Award](https://www.peointernational.org/educational-support/scholar-awards/) (2027–2028).
+- **2026** — Presented a poster on LLMs for multi-agent manufacturing process planning at [The Ohio State University](https://www.osu.edu/).
 - **Oct 2025** — Our paper on the [Beacon blackout driving dataset](https://ieeexplore.ieee.org/abstract/document/11246136) appeared at IEEE/RSJ IROS 2025.
-- **Aug 2025** — Started a Graduate Research Internship at [Oak Ridge National Laboratory](https://www.ornl.gov/).
-- **Dec 2024** — Completed my M.S. in Computer Engineering at the [University of Tennessee, Knoxville](https://www.utk.edu/).
+
+[All news →](/news/)
 
 ## Research Interests
 
