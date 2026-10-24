@@ -14,6 +14,7 @@ Developing a context-aware large language model (LLM) framework that uses retrie
 *Graduate Research Assistant · January 2026 – July 2026*
 
 Designed an agentic AI system that uses large language models to support autonomous inspection and quality assessment in manufacturing. The system combines multi-step reasoning with multimodal sensor data and domain-specific rules to detect, interpret, and classify metal deposition anomalies.
+[[Code]](https://github.com/Supriya-Sarker/multi-agent-manufacturing-inspection)
 
 ## Oak Ridge National Laboratory
 *Graduate Research Intern · August 2025 – December 2025*
