@@ -35,8 +35,15 @@ Built **Beacon**, a real-world traffic dataset recorded during blackouts, and ap
 ## Chittagong University of Engineering & Technology
 *Graduate Research Assistant · March 2017 – February 2022*
 
-Built an LSTM classifier for seven driving maneuvers from sensor data, achieving over 98% per-class accuracy.
+Developed domain-knowledge-based machine learning methods for classifying driving maneuvers from time-series sensor data, including an LSTM classifier for seven maneuvers with over 98% per-class accuracy, transfer learning, and an interpretable rule-based approach.
 [[Code]](https://github.com/Supriya-Sarker/driving-maneuvers-classification-supervised-approach-)
+
+**Related publications**
+- [Driving maneuver classification from time series data: a rule-based machine learning approach](https://link.springer.com/article/10.1007/s10489-022-03328-3), *Applied Intelligence*, 2022
+- Classification of driving maneuvers using domain knowledge of time-series data with LSTM network, M.S. thesis, CUET, 2022
+- [Driving maneuver classification using domain-specific knowledge and transfer learning](https://ieeexplore.ieee.org/abstract/document/9455147), *IEEE Access*, 2021
+- [A data change rule-based empirical framework for labeling unlabeled time series driving data](https://ieeexplore.ieee.org/abstract/document/9333495), *ICAICT*, 2020 (Best Paper Award, Honorable Mention)
+- [An approach towards domain-knowledge-based classification of driving maneuvers with LSTM network](https://link.springer.com/chapter/10.1007/978-981-16-0586-4_38), *Algorithms for Intelligent Systems* (Springer), 2020
 
 ## Chittagong University of Engineering & Technology
 *Graduate Research Assistant · March 2014 – December 2014*
