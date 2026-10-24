@@ -88,14 +88,4 @@ Developed domain-knowledge-based machine learning methods for classifying drivin
 - [A data change rule-based empirical framework for labeling unlabeled time series driving data](https://ieeexplore.ieee.org/abstract/document/9333495), *ICAICT*, 2020
 - [An approach towards domain-knowledge-based classification of driving maneuvers with LSTM network](https://link.springer.com/chapter/10.1007/978-981-16-0586-4_38), *Algorithms for Intelligent Systems* (Springer), 2020
 
-## Hybrid Digital Watermarking for Copyright Protection
-*Chittagong University of Engineering & Technology · March 2014 – December 2014*
-
-Developed a hybrid digital watermarking algorithm based on the Discrete Wavelet Transform to improve copyright protection, with a focus on robustness to noise and compression while preserving image quality.
-
-- **Role:** Graduate Research Assistant
-- **Outcomes:** Journal paper, *Advancement in Image Processing and Pattern Recognition*, 2018
-
-[[Paper]](https://www.researchgate.net/publication/331384894_Hybrid_Digital_Watermarking_Scheme_Based_on_Discrete_Wavelet_Transform_for_Copyright_Protection)
-
 </div>
