@@ -9,6 +9,17 @@ redirect_from:
 
 I am a Ph.D. student in Industrial Engineering at the [University of Arkansas](https://www.uark.edu/), where I work as a Graduate Research Assistant and hold the P.K. Kuroda Endowed Graduate Fellowship in Engineering. My research builds trustworthy AI systems — large language models, agentic AI, and retrieval-augmented generation — for high-stakes engineering applications, including nuclear power plant maintenance and manufacturing quality inspection. Previously, I was a Graduate Research Intern at [Oak Ridge National Laboratory](https://www.ornl.gov/) and earned an M.S. in Computer Engineering from the [University of Tennessee, Knoxville](https://www.utk.edu/).
 
+## News
+
+<!-- Newest first. Items marked PLACEHOLDER have estimated dates; edit as needed. -->
+- **Aug 2026** — Started as a Graduate Research Assistant at the University of Arkansas, working on LLM and RAG frameworks for maintenance prioritization in nuclear power plants.
+- **2026** — Received the [P.K. Kuroda Endowed Graduate Fellowship in Engineering](https://news.uark.edu/articles/9632/dr-paul-kazuo-kuroda) (2026–2027). <!-- PLACEHOLDER: month -->
+- **2026** — Nominated for the [P.E.O. Scholar Award](https://www.peointernational.org/educational-support/scholar-awards/) (2027–2028). <!-- PLACEHOLDER: month -->
+- **2026** — Presented the poster *Generative Process Intelligence: Large Language Models for Multi-Agent Process Planning, Control, and Quality* at The Ohio State University. <!-- PLACEHOLDER: event name and month -->
+- **Oct 2025** — Our paper on the [Beacon blackout driving dataset](https://ieeexplore.ieee.org/abstract/document/11246136) appeared at IEEE/RSJ IROS 2025.
+- **Aug 2025** — Started a Graduate Research Internship at Oak Ridge National Laboratory.
+- **Dec 2024** — Completed my M.S. in Computer Engineering at the University of Tennessee, Knoxville.
+
 ## Research Interests
 
 - **Agentic AI systems** and multi-step LLM reasoning
