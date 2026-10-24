@@ -1,0 +1,46 @@
+/* ==========================================================================
+   SITE CUSTOMIZATIONS (Supriya Sarker)
+   ========================================================================== */
+
+/* Slightly smaller body text on larger screens (template default: 18px) */
+html {
+  @include breakpoint($medium) {
+    font-size: 17px;
+  }
+}
+
+/* Comfortable reading width (about 75 characters per line) */
+.page__content,
+.archive {
+  max-width: 48rem;
+}
+
+/* Links: accent color without underline; underline on hover */
+.page__content a,
+.archive a,
+.author__urls a {
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}
+
+/* More space before section headings */
+.archive h2 {
+  margin-top: 2em;
+}
+
+/* Research page: thin divider between positions */
+.research-list h2 {
+  margin-top: 1.8em;
+  padding-top: 1.2em;
+  border-top: 1px solid var(--global-border-color);
+
+  &:first-child {
+    margin-top: 0.5em;
+    padding-top: 0;
+    border-top: none;
+  }
+}
