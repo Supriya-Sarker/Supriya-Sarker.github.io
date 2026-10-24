@@ -12,13 +12,13 @@ I am a Ph.D. student in Industrial Engineering at the [University of Arkansas](h
 ## News
 
 <!-- Newest first. Items marked PLACEHOLDER have estimated dates; edit as needed. -->
-- **Aug 2026** — Started as a Graduate Research Assistant at the University of Arkansas, working on LLM and RAG frameworks for maintenance prioritization in nuclear power plants.
+- **Aug 2026** — Started as a Graduate Research Assistant at the [University of Arkansas](https://www.uark.edu/), working on LLM and RAG frameworks for maintenance prioritization in nuclear power plants.
 - **2026** — Received the [P.K. Kuroda Endowed Graduate Fellowship in Engineering](https://news.uark.edu/articles/9632/dr-paul-kazuo-kuroda) (2026–2027). <!-- PLACEHOLDER: month -->
 - **2026** — Nominated for the [P.E.O. Scholar Award](https://www.peointernational.org/educational-support/scholar-awards/) (2027–2028). <!-- PLACEHOLDER: month -->
-- **2026** — Presented the poster *Generative Process Intelligence: Large Language Models for Multi-Agent Process Planning, Control, and Quality* at The Ohio State University. <!-- PLACEHOLDER: event name and month -->
+- **2026** — Presented the poster *Generative Process Intelligence: Large Language Models for Multi-Agent Process Planning, Control, and Quality* at [The Ohio State University](https://www.osu.edu/). <!-- PLACEHOLDER: event name and month -->
 - **Oct 2025** — Our paper on the [Beacon blackout driving dataset](https://ieeexplore.ieee.org/abstract/document/11246136) appeared at IEEE/RSJ IROS 2025.
-- **Aug 2025** — Started a Graduate Research Internship at Oak Ridge National Laboratory.
-- **Dec 2024** — Completed my M.S. in Computer Engineering at the University of Tennessee, Knoxville.
+- **Aug 2025** — Started a Graduate Research Internship at [Oak Ridge National Laboratory](https://www.ornl.gov/).
+- **Dec 2024** — Completed my M.S. in Computer Engineering at the [University of Tennessee, Knoxville](https://www.utk.edu/).
 
 ## Research Interests
 
@@ -31,16 +31,16 @@ I am a Ph.D. student in Industrial Engineering at the [University of Arkansas](h
 
 ## Education
 
-### University of Arkansas, Fayetteville
+### [University of Arkansas, Fayetteville](https://www.uark.edu/)
 *Ph.D. in Industrial Engineering · January 2025 – May 2028 (Expected)*
 
-### University of Tennessee, Knoxville
+### [University of Tennessee, Knoxville](https://www.utk.edu/)
 *M.S. in Computer Engineering · August 2023 – December 2024*
 
-### Chittagong University of Engineering & Technology
+### [Chittagong University of Engineering & Technology](https://www.cuet.ac.bd/)
 *M.S. in Computer Science & Engineering · June 2016 – February 2022*
 
-### Chittagong University of Engineering & Technology
+### [Chittagong University of Engineering & Technology](https://www.cuet.ac.bd/)
 *B.S. in Computer Science & Engineering · March 2010 – December 2014*
 
 ## Technical Skills

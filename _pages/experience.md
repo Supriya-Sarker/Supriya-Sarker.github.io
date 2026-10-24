@@ -7,44 +7,44 @@ author_profile: true
 
 <h2 class="section-title">Research Experience</h2>
 
-### University of Arkansas, Fayetteville
+### [University of Arkansas, Fayetteville](https://www.uark.edu/)
 *Graduate Research Assistant · August 2026 – Present*
 
 LLM and retrieval-augmented generation framework for maintenance prioritization in nuclear power plants. [Project details](/projects/)
 
-### University of Tennessee, Knoxville
+### [University of Tennessee, Knoxville](https://www.utk.edu/)
 *Graduate Research Assistant · January 2026 – July 2026*
 
 Agentic AI system for autonomous inspection and quality assessment in manufacturing. [Project details](/projects/)
 
-### Oak Ridge National Laboratory
+### [Oak Ridge National Laboratory](https://www.ornl.gov/)
 *Graduate Research Intern · August 2025 – December 2025*
 
 Privacy-preserving hyperparameter optimization for federated learning with foundation models. [Project details](/projects/)
 
-### University of Tennessee, Knoxville
+### [University of Tennessee, Knoxville](https://www.utk.edu/)
 *Graduate Research Assistant · January 2025 – July 2025*
 
 Human-AI Teaming framework for outpatient care. [Project details](/projects/)
 
-### University of Tennessee, Knoxville
+### [University of Tennessee, Knoxville](https://www.utk.edu/)
 *Graduate Teaching and Research Assistant · August 2023 – December 2024*
 
 Beacon blackout traffic dataset and reinforcement learning for traffic control. [Project details](/projects/)
 
-### Chittagong University of Engineering & Technology
+### [Chittagong University of Engineering & Technology](https://www.cuet.ac.bd/)
 *Graduate Research Assistant · March 2017 – February 2022*
 
 Driving maneuver classification from time-series sensor data (M.S. thesis research). [Project details](/projects/)
 
-### Chittagong University of Engineering & Technology
+### [Chittagong University of Engineering & Technology](https://www.cuet.ac.bd/)
 *Graduate Research Assistant · March 2014 – December 2014*
 
 Hybrid digital watermarking for copyright protection. [Project details](/projects/)
 
 <h2 class="section-title">Teaching &amp; Professional Experience</h2>
 
-### World University of Bangladesh, Dhaka
+### [World University of Bangladesh](https://wub.edu.bd/), Dhaka
 *Lecturer, Department of Computer Science & Engineering · May 2018 – August 2022*
 
 Taught core undergraduate computer science courses, supervised student projects and theses, and conducted research leading to peer-reviewed publications.

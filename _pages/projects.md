@@ -22,7 +22,7 @@ redirect_from:
 <div class="research-list" markdown="1">
 
 ## LLM-Based Maintenance Prioritization for Nuclear Power Plants
-*University of Arkansas, Fayetteville · August 2026 – Present*
+*[University of Arkansas, Fayetteville](https://www.uark.edu/) · August 2026 – Present*
 
 Developing a context-aware large language model (LLM) framework that uses retrieval-augmented generation (RAG) and plant-specific risk data to prioritize maintenance work orders in nuclear power plants.
 
@@ -31,18 +31,18 @@ Developing a context-aware large language model (LLM) framework that uses retrie
 - **Methods:** LLMs, retrieval-augmented generation, vector databases, risk-informed decision making
 
 ## Agentic AI for Autonomous Manufacturing Inspection
-*University of Tennessee, Knoxville · January 2026 – July 2026*
+*[University of Tennessee, Knoxville](https://www.utk.edu/) · January 2026 – July 2026*
 
 Designed an agentic AI system that uses large language models to support autonomous inspection and quality assessment in manufacturing. The system combines multi-step reasoning with multimodal sensor data and domain-specific rules to detect, interpret, and classify metal deposition anomalies.
 
 - **Role:** Graduate Research Assistant
-- **Funding:** [NSF Engineering Research Center for Hybrid Autonomous Manufacturing Moving from Evolution to Revolution (HAMMER)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2133630), led by The Ohio State University
-- **Outcomes:** Poster, *Generative Process Intelligence: Large Language Models for Multi-Agent Process Planning, Control, and Quality*, The Ohio State University, 2026 <!-- PLACEHOLDER: event name and exact date -->
+- **Funding:** [NSF Engineering Research Center for Hybrid Autonomous Manufacturing Moving from Evolution to Revolution (HAMMER)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2133630), led by [The Ohio State University](https://www.osu.edu/)
+- **Outcomes:** Poster, *Generative Process Intelligence: Large Language Models for Multi-Agent Process Planning, Control, and Quality*, [The Ohio State University](https://www.osu.edu/), 2026 <!-- PLACEHOLDER: event name and exact date -->
 
 [[Code]](https://github.com/Supriya-Sarker/multi-agent-manufacturing-inspection)
 
 ## Privacy-Preserving Hyperparameter Optimization for Federated Foundation Models
-*Oak Ridge National Laboratory · August 2025 – December 2025*
+*[Oak Ridge National Laboratory](https://www.ornl.gov/) · August 2025 – December 2025*
 
 Designed a heterogeneous-data-aware, privacy-preserving hyperparameter optimization framework for federated learning with large foundation models. Adaptive trial selection and privacy budget allocation balance model performance, communication overhead, and cumulative differential privacy loss. Evaluated on Vision Transformer (ViT) models.
 
@@ -50,18 +50,18 @@ Designed a heterogeneous-data-aware, privacy-preserving hyperparameter optimizat
 - **Funding:** To be added <!-- PLACEHOLDER: e.g., internship program or sponsor -->
 
 ## Human-AI Teaming Framework for Outpatient Care
-*University of Tennessee, Knoxville · January 2025 – July 2025*
+*[University of Tennessee, Knoxville](https://www.utk.edu/) · January 2025 – July 2025*
 
 Developed a Human-AI Teaming framework that models outpatient care as a collaboration among patients, clinicians, and AI, with mechanisms for shared decision-making, trust calibration, and role negotiation.
 
 - **Role:** Graduate Research Assistant
-- **Funding:** U.S. Department of Energy, through Oak Ridge National Laboratory (managed by UT-Battelle, LLC)
+- **Funding:** U.S. Department of Energy, through [Oak Ridge National Laboratory](https://www.ornl.gov/) (managed by UT-Battelle, LLC)
 - **Outcomes:** Manuscript under review at [AI and Ethics](https://link.springer.com/journal/43681)
 
 [[Preprint]](https://www.researchgate.net/publication/392480667_Reimagining_the_Role_of_Human-AI_Teaming_in_Healthcare_A_Framework_for_the_Future_of_Outpatient_Care)
 
 ## Beacon: Blackout Driving Dataset and Traffic Control
-*University of Tennessee, Knoxville · August 2023 – December 2024*
+*[University of Tennessee, Knoxville](https://www.utk.edu/) · August 2023 – December 2024*
 
 Built **Beacon**, a real-world traffic dataset recorded during blackouts, and applied Rainbow DQN to control robot vehicles in the reconstructed traffic, reducing wait times by up to 82.6%.
 
@@ -72,12 +72,12 @@ Built **Beacon**, a real-world traffic dataset recorded during blackouts, and ap
 [[Code]](https://github.com/Supriya-Sarker/beacon_dataset) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11246136)
 
 ## Driving Maneuver Classification from Time-Series Data
-*Chittagong University of Engineering & Technology · March 2017 – February 2022*
+*[Chittagong University of Engineering & Technology](https://www.cuet.ac.bd/) · March 2017 – February 2022*
 
 Developed domain-knowledge-based machine learning methods for classifying driving maneuvers from time-series sensor data, including an LSTM classifier for seven maneuvers with over 98% per-class accuracy, transfer learning, and an interpretable rule-based approach. This work formed my M.S. thesis.
 
 - **Role:** Graduate Research Assistant
-- **Support:** The *IEEE Access* 2021 paper was partially supported by an NSERC Discovery Grant held by research collaborator [Dr. Ali Dewan](https://www.athabascau.ca/science-and-technology/our-people/ali-dewan.html) (Athabasca University).
+- **Support:** The *IEEE Access* 2021 paper was partially supported by an NSERC Discovery Grant held by research collaborator [Dr. Ali Dewan](https://www.athabascau.ca/science-and-technology/our-people/ali-dewan.html) ([Athabasca University](https://www.athabascau.ca/)).
 - **Outcomes:** 4 publications; Best Paper Award (Honorable Mention), ICAICT 2020
 
 [[Code]](https://github.com/Supriya-Sarker/driving-maneuvers-classification-supervised-approach-)
