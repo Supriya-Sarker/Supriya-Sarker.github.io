@@ -6,8 +6,8 @@
 
 $accent:        #5b349a;   /* CV section-heading purple */
 $accent-dark:   #3e2270;
-$ink:           #14102a;   /* near-black, like the CV text */
-$ink-soft:      #4a4560;
+$ink:           #0b0816;   /* near-black, like the CV text */
+$ink-soft:      #2c2740;
 $font-cv: "CMU Serif", "Latin Modern Roman", "Computer Modern", Georgia, serif;
 $sidebar-w: 250px;
 $sidebar-gap: 36px;
@@ -42,9 +42,13 @@ h1, h2, h3, h4, h5, h6, p, li, .author__name, .author__bio, .page__title,
 }
 
 body {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   line-height: 1.55;
+  text-rendering: optimizeLegibility;
+}
+
+/* Computer Modern has thin strokes on screens; thicken them slightly so text looks crisp and dark */
+body, .page__content, .archive, .sidebar, .masthead {
+  -webkit-text-stroke: 0.25px currentColor;
 }
 
 /* ---------- Layout: content sits right next to the sidebar ---------- */
@@ -85,6 +89,7 @@ body {
 
 /* Entry names (organizations, degrees): bold near-black, like the CV */
 .archive h2,
+.archive h3,
 .page__content h3 {
   color: $ink;
   font-weight: 700;
@@ -94,7 +99,8 @@ body {
   border-bottom: none;
 }
 
-/* About page sections: purple capitals with a rule, like "EDUCATION" in the CV */
+/* Section headers: purple capitals with a rule, like "EDUCATION" in the CV */
+.archive h2.section-title,
 .page__content h2 {
   color: $accent;
   font-weight: 400;
@@ -107,10 +113,16 @@ body {
   border-bottom: 1px solid $ink;
 }
 
-.page__content h2 + h3 { margin-top: 0.4em; }
+.page__content h2 + h3,
+.archive h2.section-title + h3 { margin-top: 0.4em; }
+
+/* Project details: compact bullet list */
+.research-list ul { margin-top: 0.3em; }
+.research-list li { margin-bottom: 0.15em; }
 
 /* Role/date line directly under a heading, then the description */
 .archive h2 + p,
+.archive h3 + p,
 .page__content h3 + p {
   margin-top: 0;
   margin-bottom: 0.45em;
