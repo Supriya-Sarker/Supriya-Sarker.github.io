@@ -49,3 +49,4 @@ Developed domain-knowledge-based machine learning methods for classifying drivin
 *Graduate Research Assistant · March 2014 – December 2014*
 
 Developed a hybrid digital watermarking algorithm based on the Discrete Wavelet Transform to improve copyright protection, with a focus on robustness to noise and compression while preserving image quality.
+[[Paper]](https://www.researchgate.net/publication/331384894_Hybrid_Digital_Watermarking_Scheme_Based_on_Discrete_Wavelet_Transform_for_Copyright_Protection)
