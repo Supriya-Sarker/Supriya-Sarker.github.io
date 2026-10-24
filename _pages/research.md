@@ -25,7 +25,8 @@ Designed an agentic AI system that uses large language models to support autonom
 ## University of Tennessee, Knoxville
 *Graduate Research Assistant · January 2025 – July 2025*
 
-Designed a transparent clinical decision support framework that combines predictive modeling with LLM-generated, patient-friendly explanations to improve trust and transparency in clinical decision-making.
+Developed a Human-AI Teaming framework that reimagines outpatient care as a triadic collaboration among patients, clinicians, and AI systems. Grounded in the Input–Mediator–Output model from team science, it defines mechanisms for shared decision-making, trust calibration, adaptive role negotiation, and post-care monitoring, so that AI-supported clinical decisions are more transparent, interpretable, and trustworthy.
+[[Preprint]](https://www.researchgate.net/publication/392480667_Reimagining_the_Role_of_Human-AI_Teaming_in_Healthcare_A_Framework_for_the_Future_of_Outpatient_Care) · *Under review at* AI and Ethics
 
 ## University of Tennessee, Knoxville
 *Graduate Teaching and Research Assistant · August 2023 – December 2024*
