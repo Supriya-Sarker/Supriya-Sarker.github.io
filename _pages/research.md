@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+<div class="research-list" markdown="1">
+
 ## University of Arkansas, Fayetteville
 *Graduate Research Assistant · August 2026 – Present*
 
@@ -51,3 +53,5 @@ Developed domain-knowledge-based machine learning methods for classifying drivin
 
 Developed a hybrid digital watermarking algorithm based on the Discrete Wavelet Transform to improve copyright protection, with a focus on robustness to noise and compression while preserving image quality.
 [[Paper]](https://www.researchgate.net/publication/331384894_Hybrid_Digital_Watermarking_Scheme_Based_on_Discrete_Wavelet_Transform_for_Copyright_Protection)
+
+</div>
