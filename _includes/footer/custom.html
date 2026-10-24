@@ -1,5 +1,19 @@
 <!-- start custom footer snippets -->
 
+<!-- Open external links and PDFs in a new tab -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('a[href]').forEach(function (a) {
+      var external = a.hostname && a.hostname !== location.hostname;
+      var pdf = /\.pdf($|[?#])/i.test(a.getAttribute('href'));
+      if (external || pdf) {
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+      }
+    });
+  });
+</script>
+
 <!-- Support for MatJax -->
 <script defer src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>
