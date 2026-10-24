@@ -10,8 +10,8 @@ html {
 }
 
 /* Comfortable reading width (about 75 characters per line) */
-.page__content,
-.archive {
+.page__content > *,
+.archive > * {
   max-width: 48rem;
 }
 
@@ -43,4 +43,16 @@ html {
     padding-top: 0;
     border-top: none;
   }
+}
+
+/* Tighter spacing: heading, then role/date line, then description */
+.archive h2,
+.page__content h2 {
+  margin-bottom: 0.25em;
+}
+
+.archive h2 + p,
+.page__content h2 + p {
+  margin-top: 0;
+  margin-bottom: 0.5em;
 }
