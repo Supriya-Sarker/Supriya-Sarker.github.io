@@ -66,7 +66,7 @@ Developed a Human-AI Teaming framework that models outpatient care as a collabor
 Built **Beacon**, a real-world traffic dataset recorded during blackouts, and applied Rainbow DQN to control robot vehicles in the reconstructed traffic, reducing wait times by up to 82.6%.
 
 - **Role:** Graduate Teaching and Research Assistant
-- **Funding:** To be added <!-- PLACEHOLDER: sponsor and award number -->
+- **Funding:** [U.S. National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153426) (NSF IIS-2153426)
 - **Outcomes:** Paper at IEEE/RSJ IROS 2025; public dataset
 
 [[Code]](https://github.com/Supriya-Sarker/beacon_dataset) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11246136)
