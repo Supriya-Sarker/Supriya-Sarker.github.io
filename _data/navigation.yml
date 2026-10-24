@@ -26,6 +26,9 @@ main:
   - title: "CV"
     url: /files/Supriya_Sarker_CV.pdf
 
+  - title: "Resume"
+    url: /files/Supriya_Sarker_Resume.pdf
+
   # Hidden for now. To bring one back, remove the "#" at the start of its two lines.
   # - title: "Talks"
   #   url: /talks/
