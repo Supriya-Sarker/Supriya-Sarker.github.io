@@ -1,15 +1,16 @@
 /* ==========================================================================
    SITE CUSTOMIZATIONS (Supriya Sarker)
-   Matches the CV: serif font (Times New Roman), deep purple accent, near-black text.
+   Matches the CV: Computer Modern font, deep purple accent, near-black text.
+   The font is loaded in _includes/head/custom.html.
    ========================================================================== */
 
 $accent:        #5b349a;   /* CV section-heading purple */
 $accent-dark:   #3e2270;
 $ink:           #14102a;   /* near-black, like the CV text */
 $ink-soft:      #4a4560;
-$font-cv: "Times New Roman", Times, "Liberation Serif", serif;
+$font-cv: "CMU Serif", "Latin Modern Roman", "Computer Modern", Georgia, serif;
 $sidebar-w: 250px;
-$sidebar-gap: 48px;
+$sidebar-gap: 36px;
 
 /* ---------- Colors (light theme only; dark mode keeps its own palette) ---- */
 html:not([data-theme="dark"]) {
@@ -28,7 +29,7 @@ html:not([data-theme="dark"]) {
 /* ---------- Typography: the CV font everywhere ---------- */
 html {
   font-size: 17px;
-  @include breakpoint($medium) { font-size: 18px; }
+  @include breakpoint($medium) { font-size: 19px; }  /* Computer Modern runs small */
 }
 
 body,
@@ -64,33 +65,53 @@ body {
   }
 }
 
-/* Comfortable reading width */
-.page__content > *,
-.archive > * {
-  max-width: 46rem;
+/* Use the full width next to the sidebar (no empty band on the right) */
+#main {
+  max-width: 1440px;
 }
 
 /* ---------- Headings ---------- */
 .page__title {
-  font-weight: 700;
-  font-size: 2rem;
-  color: $ink;
-  margin-bottom: 0.5em;
+  /* Like the CV section headers ("EDUCATION"): purple capitals with a rule */
+  font-weight: 400;
+  font-size: 1.35rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: $accent;
+  padding-bottom: 0.25em;
+  border-bottom: 1.5px solid $ink;
+  margin-bottom: 0.9em;
 }
 
-.page__content h2,
-.archive h2 {
-  color: $accent;
+/* Entry names (organizations, degrees): bold near-black, like the CV */
+.archive h2,
+.page__content h3 {
+  color: $ink;
   font-weight: 700;
-  font-size: 1.25rem;
-  margin-top: 1.8em;
-  margin-bottom: 0.2em;
+  font-size: 1.15rem;
+  margin-top: 1.4em;
+  margin-bottom: 0.1em;
   border-bottom: none;
 }
 
+/* About page sections: purple capitals with a rule, like "EDUCATION" in the CV */
+.page__content h2 {
+  color: $accent;
+  font-weight: 400;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-top: 1.6em;
+  margin-bottom: 0.6em;
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid $ink;
+}
+
+.page__content h2 + h3 { margin-top: 0.4em; }
+
 /* Role/date line directly under a heading, then the description */
 .archive h2 + p,
-.page__content h2 + p {
+.page__content h3 + p {
   margin-top: 0;
   margin-bottom: 0.45em;
 }
