@@ -5,32 +5,100 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!--
+  All publications are listed on this one page.
+  To add a paper, copy an <li>...</li> block into the right section (newest first).
+-->
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+<h2>Journal Articles</h2><hr />
+<ul>
+  <li>
+    <b>Supriya Sarker</b>, Mohammad Shamsul Arefin, Md Kowsher, Touhid Bhuiyan, Pranab Kumar Dhar, Oh-Jin Kwon.
+    "A Comprehensive Review on Big Data for Industries: Challenges and Opportunities."
+    <i>IEEE Access</i>, vol. 11, pp. 744–769, 2022.
+    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9999445">[Paper]</a>
+  </li>
+  <li>
+    Md Mokammel Haque, <b>Supriya Sarker</b>, M Ali Akber Dewan.
+    "Driving Maneuver Classification From Time Series Data: A Rule Based Machine Learning Approach."
+    <i>Applied Intelligence</i>, pp. 1–16, 2022.
+    <a href="https://link.springer.com/article/10.1007/s10489-022-03328-3">[Paper]</a>
+  </li>
+  <li>
+    <b>Supriya Sarker</b>, Md Mokammel Haque, M Ali Akber Dewan.
+    "Driving Maneuver Classification Using Domain Specific Knowledge and Transfer Learning."
+    <i>IEEE Access</i>, vol. 9, 2021.
+  </li>
+  <li>
+    Muhammad Kamal Hossen, <b>Supriya Sarker</b>, M. S. A. Chowdhury.
+    "Hybrid Digital Watermarking Scheme Based on Discrete Wavelet Transform for Copyright Protection."
+    <i>Advancement in Image Processing and Pattern Recognition</i>, vol. 1, no. 2, pp. 1–10, 2018.
+  </li>
+</ul>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Conference Papers</h2><hr />
+<ul>
+  <li>
+    <b>Supriya Sarker</b>, I. Islam, B. Poudel, W. Li.
+    "Beacon: A Naturalistic Driving Dataset During Blackouts for Benchmarking Traffic Reconstruction and Control."
+    <i>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2025.
+  </li>
+  <li>
+    <b>Supriya Sarker</b>, Md Mokammel Haque.
+    "A Data Change Rule Based Empirical Framework for Labeling Unlabeled Time Series Driving Data."
+    <i>2nd International Conference on Advanced Information and Communication Technology (ICAICT)</i>, 2020.
+  </li>
+  <li>
+    <b>Supriya Sarker</b>, M. S. Rahman, A. Alam, M. J. Islam, D. Sikder.
+    "Energy Saving Smart Waste Segregation and Notification System."
+    <i>2020 IEEE Region 10 Symposium (TENSYMP)</i>, 2020.
+  </li>
+  <li>
+    <b>Supriya Sarker</b>, M. Mazumder, M. Rahman, M. Rabbi.
+    "An Assistive HCI System Based on Block Scanning Objects Using Eye Blinks."
+    <i>4th International Conference on Electrical Information and Communication Technology (EICT)</i>, 2019.
+  </li>
+  <li>
+    <b>Supriya Sarker</b>, M. S. Rahman, M. N. Sakib.
+    "An Approach Towards Intelligent Accident Detection, Location Tracking and Notification System."
+    <i>3rd IEEE International Conference on Telecommunications and Photonics (ICTP)</i>, 2019.
+  </li>
+</ul>
 
+<h2>Book Chapters</h2><hr />
+<ul>
+  <li>
+    <b>Supriya Sarker</b>, Md Mokammel Haque.
+    "An Approach Towards Domain Knowledge Based Classification of Driving Maneuvers with LSTM Network."
+    <i>Algorithms for Intelligent Systems (AIS) book series</i>, pp. 469–484, 2020.
+  </li>
+</ul>
 
+<h2>Preprints</h2><hr />
+<ul>
+  <li>
+    <b>Supriya Sarker</b>, B. Maples, W. Li.
+    "A Comprehensive Review on Traffic Datasets and Simulators for Autonomous Vehicles."
+    <i>arXiv preprint</i> arXiv:2412.14207, 2024.
+    <a href="https://arxiv.org/abs/2412.14207">[Paper]</a>
+  </li>
+  <li>
+    <b>Supriya Sarker</b>, Abdur Rahman Bin Shahid.
+    "Cyberbullying of High School Students in Bangladesh: An Exploratory Study."
+    <i>arXiv preprint</i> arXiv:1901.00755, 2018.
+    <a href="https://arxiv.org/abs/1901.00755">[Paper]</a>
+  </li>
+</ul>
 
+<h2>Thesis</h2><hr />
+<ul>
+  <li>
+    <b>Supriya Sarker</b>.
+    "Classification of Driving Maneuvers Using Domain Knowledge of Time-Series Data with LSTM Network."
+    <i>Chittagong University of Engineering &amp; Technology</i>, 2022.
+  </li>
+</ul>
