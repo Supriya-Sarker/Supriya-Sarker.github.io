@@ -28,7 +28,6 @@ Developing a context-aware large language model (LLM) framework that uses retrie
 
 - **Role:** Graduate Research Assistant
 - **Funding:** To be added <!-- PLACEHOLDER: sponsor and award number -->
-- **Methods:** LLMs, retrieval-augmented generation, vector databases, risk-informed decision making
 - **Outcomes:**
   - **Supriya Sarker**, Pulock Das, Jamie Coble, Manar Samad, Anahita Khojandi. "A Review of Large Language Models in Nuclear Work Order Maintenance and Organization." *In preparation for NPIC&HMIT and ISOFIC 2027.*
 
