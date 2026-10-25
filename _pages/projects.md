@@ -29,6 +29,8 @@ Developing a context-aware large language model (LLM) framework that uses retrie
 - **Role:** Graduate Research Assistant
 - **Funding:** To be added <!-- PLACEHOLDER: sponsor and award number -->
 - **Methods:** LLMs, retrieval-augmented generation, vector databases, risk-informed decision making
+- **Outcomes:**
+  - Paper (in preparation for NPIC&HMIT and ISOFIC 2027, Salt Lake City, UT): **Supriya Sarker**, Pulock Das, Jamie Coble, Manar Samad, Anahita Khojandi. "A Review of Large Language Models in Nuclear Work Order Maintenance and Organization."
 
 ## Agentic AI for Autonomous Manufacturing Inspection
 *[University of Tennessee, Knoxville](https://www.utk.edu/) · January 2026 – July 2026*
@@ -39,7 +41,7 @@ Designed an agentic AI system that uses large language models to support autonom
 - **Funding:** [NSF Engineering Research Center for Hybrid Autonomous Manufacturing Moving from Evolution to Revolution (HAMMER)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2133630), led by [The Ohio State University](https://www.osu.edu/)
 - **Outcomes:**
   - Poster: *Generative Process Intelligence: Large Language Models for Multi-Agent Process Planning, Control, and Quality*, HAMMER NSF Site Visit, [The Ohio State University](https://www.osu.edu/), May 2026
-  - Journal paper in preparation
+  - Paper (in preparation): **Supriya Sarker**, Matthew Mikels, William Werner, Jamie Coble, Ping Guo, Bradley Jared, Anahita Khojandi. "An Agentic LLM Framework for Multimodal In-Situ Weld Quality Assessment in Wire Arc Additive Manufacturing."
 
 [[Code]](https://github.com/Supriya-Sarker/multi-agent-manufacturing-inspection)
 
