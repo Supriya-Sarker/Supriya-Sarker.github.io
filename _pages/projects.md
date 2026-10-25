@@ -37,7 +37,7 @@ Designed an agentic AI system that uses large language models to support autonom
 
 - **Role:** Graduate Research Assistant
 - **Funding:** [NSF Engineering Research Center for Hybrid Autonomous Manufacturing Moving from Evolution to Revolution (HAMMER)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2133630), led by [The Ohio State University](https://www.osu.edu/)
-- **Outcomes:** Poster, *Generative Process Intelligence: Large Language Models for Multi-Agent Process Planning, Control, and Quality*, [The Ohio State University](https://www.osu.edu/), 2026 <!-- PLACEHOLDER: event name and exact date -->
+- **Outcomes:** Poster, *Generative Process Intelligence: Large Language Models for Multi-Agent Process Planning, Control, and Quality*, [The Ohio State University](https://www.osu.edu/), HAMMER NSF Site Visit, May 2026
 
 [[Code]](https://github.com/Supriya-Sarker/multi-agent-manufacturing-inspection)
 

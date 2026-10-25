@@ -25,19 +25,18 @@ I am a Ph.D. student in Industrial Engineering at the [University of Arkansas](h
 
 ## Research Interests
 
-- **Agentic AI systems** and multi-step LLM reasoning
-- **Large language models (LLMs)** and **retrieval-augmented generation (RAG)**
-- **Generative AI** and **foundation models**
+- **Agentic AI and LLMs:** multi-agent reasoning, retrieval-augmented generation (RAG), foundation models
 - **Multimodal AI** for inspection and quality assessment
-- **Reinforcement learning** and **deep learning**
-- **Applications:** nuclear power, manufacturing, healthcare, and transportation
+- **Reinforcement learning** for control and decision-making
+
+Application areas include nuclear power, manufacturing, healthcare, and transportation, among other high-stakes engineering domains.
 
 ## News
 
 <!-- Latest three items only; the full list is on the News page (_pages/news.md). -->
+- **Sep 2026** — Nominated for the [P.E.O. Scholar Award](https://www.peointernational.org/educational-support/scholar-awards/) (2027–2028).
 - **Aug 2026** — Started as a Graduate Research Assistant at the [University of Arkansas](https://www.uark.edu/), working on LLM and RAG frameworks for maintenance prioritization in nuclear power plants.
-- **2026** — Received the [P.K. Kuroda Endowed Graduate Fellowship in Engineering](https://news.uark.edu/articles/9632/dr-paul-kazuo-kuroda) (2026–2027).
-- **2026** — Nominated for the [P.E.O. Scholar Award](https://www.peointernational.org/educational-support/scholar-awards/) (2027–2028).
+- **Aug 2026** — Received the [P.K. Kuroda Endowed Graduate Fellowship in Engineering](https://news.uark.edu/articles/9632/dr-paul-kazuo-kuroda) (2026–2027).
 
 [All news →](/news/)
 
