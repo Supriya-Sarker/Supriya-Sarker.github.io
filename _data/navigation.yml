@@ -17,9 +17,6 @@ main:
   - title: "Experience"
     url: /experience/
 
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "News"
     url: /news/
 
@@ -33,6 +30,8 @@ main:
     url: /files/Supriya_Sarker_Resume.pdf
 
   # Hidden for now. To bring one back, remove the "#" at the start of its two lines.
+  # - title: "Teaching"
+  #   url: /teaching/
   # - title: "Talks"
   #   url: /talks/
   # - title: "Portfolio"
