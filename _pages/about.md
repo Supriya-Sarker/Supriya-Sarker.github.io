@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Industrial Engineering at the [University of Arkansas](https://www.uark.edu/), supported by the P.K. Kuroda Endowed Graduate Fellowship. I study how large language models and AI agents can support decisions in engineering systems.
+I am a Ph.D. student in Industrial Engineering at the [University of Arkansas](https://www.uark.edu/). I work with Anahita Khojandi.
 
-Right now, I am using LLMs to help prioritize maintenance work in nuclear power plants. Before that, I built an agentic system for weld quality inspection in additive manufacturing at the [University of Tennessee, Knoxville](https://www.utk.edu/), and worked on privacy-preserving federated learning as a research intern at [Oak Ridge National Laboratory](https://www.ornl.gov/).
+My research interests span large language models, agentic AI, and retrieval-augmented generation for decision-making in engineering systems, with applications in nuclear power plant maintenance and additive manufacturing. I bring an industrial engineering perspective to questions about how AI agents reason over domain knowledge and sensor data, and when their decisions can be trusted.
 
 ## Education
 
