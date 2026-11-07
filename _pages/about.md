@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student in Industrial Engineering at the [University of Arkansas](https://www.uark.edu/). I work with [Dr. Anahita Khojandi](https://engineering.uark.edu/industrial-engineering/faculty/uid/akhojandi/name/Anahita+Khojandi/).
 
-My research interests span large language models, agentic AI, and multimodal reasoning for decision-making in complex engineering systems. I bring an industrial engineering perspective to questions about how AI agents reason with domain knowledge and real-world data, and when their decisions can be trusted.
+My research interests span large language models, agentic AI, and multimodal reasoning for decision-making in complex engineering systems. I bring an industrial engineering perspective to building AI agents that plan, control, and automate complex industrial processes and tasks.
 
 ## Education
 
@@ -30,8 +30,6 @@ My research interests span large language models, agentic AI, and multimodal rea
 - **Agentic AI and LLMs:** multi-agent reasoning, retrieval-augmented generation (RAG), foundation models
 - **Multimodal AI** for inspection and quality assessment
 - **Reinforcement learning** for control and decision-making
-
-Application areas include nuclear power, manufacturing, healthcare, and transportation, among other high-stakes engineering domains.
 
 ## News
 
