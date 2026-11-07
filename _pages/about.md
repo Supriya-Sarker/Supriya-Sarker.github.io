@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Industrial Engineering at the [University of Arkansas](https://www.uark.edu/). I work with Anahita Khojandi.
+I am a Ph.D. student in Industrial Engineering at the [University of Arkansas](https://www.uark.edu/). I work with [Anahita Khojandi](https://tickle.utk.edu/ise/research/labs-and-centers/ai-in-complex-systems-lab/).
 
 My research interests span large language models, agentic AI, and multimodal reasoning for decision-making in complex engineering systems. I bring an industrial engineering perspective to questions about how AI agents reason with domain knowledge and real-world data, and when their decisions can be trusted.
 
