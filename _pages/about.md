@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Industrial Engineering at the [University of Arkansas](https://www.uark.edu/), where I work as a Graduate Research Assistant and hold the P.K. Kuroda Endowed Graduate Fellowship in Engineering. My research builds trustworthy AI systems — large language models, agentic AI, and retrieval-augmented generation — for high-stakes engineering applications, including nuclear power plant maintenance and manufacturing quality inspection. Previously, I was a Graduate Research Intern at [Oak Ridge National Laboratory](https://www.ornl.gov/) and earned an M.S. in Computer Engineering from the [University of Tennessee, Knoxville](https://www.utk.edu/).
+I am a Ph.D. student in Industrial Engineering at the [University of Arkansas](https://www.uark.edu/), supported by the P.K. Kuroda Endowed Graduate Fellowship. I study how large language models and AI agents can support decisions in engineering systems.
+
+Right now, I am using LLMs to help prioritize maintenance work in nuclear power plants. Before that, I built an agentic system for weld quality inspection in additive manufacturing at the [University of Tennessee, Knoxville](https://www.utk.edu/), and worked on privacy-preserving federated learning as a research intern at [Oak Ridge National Laboratory](https://www.ornl.gov/).
 
 ## Education
 
