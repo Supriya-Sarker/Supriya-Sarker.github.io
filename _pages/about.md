@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student in Industrial Engineering at the [University of Arkansas](https://www.uark.edu/). I work with Anahita Khojandi.
 
-My research interests span large language models, agentic AI, and retrieval-augmented generation for decision-making in engineering systems, with applications in nuclear power plant maintenance and additive manufacturing. I bring an industrial engineering perspective to questions about how AI agents reason over domain knowledge and sensor data, and when their decisions can be trusted.
+My research interests span large language models, agentic AI, and multimodal reasoning for decision-making in complex engineering systems. I bring an industrial engineering perspective to questions about how AI agents reason with domain knowledge and real-world data, and when their decisions can be trusted.
 
 ## Education
 
