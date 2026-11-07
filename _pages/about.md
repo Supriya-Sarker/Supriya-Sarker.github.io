@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Industrial Engineering at the [University of Arkansas](https://www.uark.edu/). I work with [Dr. Anahita Khojandi](https://news.uark.edu/articles/83173/before-ai-was-cool-engineering-endowed-chair-brings-nuclear-and-health-projects-to-arkansas).
+I am a Ph.D. student in Industrial Engineering at the [University of Arkansas](https://www.uark.edu/). I work with [Dr. Anahita Khojandi](https://engineering.uark.edu/industrial-engineering/faculty/uid/akhojandi/name/Anahita+Khojandi/).
 
 My research interests span large language models, agentic AI, and multimodal reasoning for decision-making in complex engineering systems. I bring an industrial engineering perspective to questions about how AI agents reason with domain knowledge and real-world data, and when their decisions can be trusted.
 
