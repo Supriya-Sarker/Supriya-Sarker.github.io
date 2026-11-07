@@ -27,7 +27,7 @@ redirect_from:
 Developing a context-aware large language model (LLM) framework that uses retrieval-augmented generation (RAG) and plant-specific risk data to prioritize maintenance work orders in nuclear power plants.
 
 - **Role:** Graduate Research Assistant
-- **Funding:** To be added <!-- PLACEHOLDER: sponsor and award number -->
+- **Funding:** U.S. Department of Energy, [Nuclear Energy University Program (NEUP)](https://neup.inl.gov/): *[O&Mgpt: Context-Aware Natural Language Processing for Improving Operations and Maintenance Planning in Nuclear Power Plants](https://ne.utk.edu/tce-led-nuclear-energy-projects-receive-doe-funding/)*
 - **Outcomes:**
   - **Supriya Sarker**, Pulock Das, Jamie Coble, Manar Samad, Anahita Khojandi. "A Review of Large Language Models in Nuclear Work Order Maintenance and Organization." *In preparation for NPIC&HMIT and ISOFIC 2027.*
 
